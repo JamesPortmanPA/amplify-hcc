@@ -16,7 +16,7 @@ class Greeting extends Component {
 
     componentDidMount(){
         this.setState((state, props) =>({
-            username: "Bob"
+            username: "James"
         }));
     }
 
